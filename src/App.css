@@ -1,18 +1,4 @@
-.App {
-  text-align: center;
-}
+/* 自定义样式 */
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
+/* 由于使用 Tailwind CSS，大部分样式将直接在组件中通过类名定义 */
+/* 此文件可用于添加任何自定义 CSS 样式 */
